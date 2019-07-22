@@ -75,6 +75,14 @@
 	font-style: normal;
 }
 
+[epub|type~="z3998:stage-direction"].editorial::before{
+	content: "[";
+}
+
+[epub|type~="z3998:stage-direction"].editorial::after{
+	content: "]";
+}
+
 [epub|type~="z3998:persona"]{
 	font-variant: all-small-caps;
 }
@@ -92,4 +100,10 @@
 
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
+}
+
+.signature{
+	margin-top: 2em;
+	font-variant: small-caps;
+	text-align: right;
 }
