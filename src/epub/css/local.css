@@ -102,6 +102,11 @@
 	display: none;
 }
 
+p span.i6{
+	text-indent: -1em;
+	padding-left: 7em;
+}
+
 .signature{
 	margin-top: 2em;
 	font-variant: small-caps;
