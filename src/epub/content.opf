@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-shakspeare/the-merry-wives-of-windsor</dc:identifier>
+		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-shakespeare/the-merry-wives-of-windsor</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
@@ -41,39 +41,42 @@
 		<meta property="term" refines="#subject-3">sh2008107249</meta>
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description"> LONG_DESCRIPTION </meta>
+		<meta property="se:subject">Drama</meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">This play is Shakespeare’s first comedy featuring the popular character of Falstaff, who gets into trouble trying to seduce several local wives.</dc:description>
+		<meta id="long-description" property="se:long-description" refines="#description">
+			&lt;p&gt;First published in 1602 by William Shakespeare, &lt;i&gt;The Merry Wives of Windsor&lt;/i&gt; features the popular figure of Sir John Falstaff who first appeared in &lt;i&gt;Henry IV, Part 1&lt;/i&gt; and &lt;i&gt;Part 2&lt;/i&gt;. One theory speculates it was written at the behest of Queen Elizabeth I who wanted to see Falstaff in love. It is theorized Shakespeare was forced to rush its creation as a result and so it remains one of Shakespeare’s lesser-regarded plays.&lt;/p&gt;
+			&lt;p&gt;The play revolves around two intertwined plots:the adventures of the rogue Falstaff who plans to seduce several local wives and the story of young Anne Page who is being wooed by prominent citizens while she has her sights set on young Fenton. The wives come together to teach Falstaff a lesson and in the end love triumphs.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Merry Wives of Windsor&lt;/i&gt; is believed to have been first performed in 1597 and was subsequently published in quarto in 1602, in a second quarto in 1619, and appeared in the 1923 &lt;i&gt;First Folio&lt;/i&gt;. Despite holding a lesser place in Shakespeare’s canon, it was one of the first Shakespearean plays to be performed once the theatres re-opened in 1660 after the reinstatement of Charles II and theatre once again was permitted to be performed in London.&lt;/p&gt; </meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1517</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<meta property="se:production-notes">The main text was based on the PG version with additional stage directions taken from the 1923 Cambridge edition.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Merry_Wives_of_Windsor</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-shakspeare_the-merry-wives-of-windsor</meta>
-		<dc:creator id="author">William Shakspeare</dc:creator>
-		<meta property="file-as" refines="#author">AUTHOR_SORT</meta>
-		<meta property="se:name.person.full-name" refines="#author">AUTHOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/William_Shakspeare</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">AUTHOR_NACOAF_URL</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-shakespeare_the-merry-wives-of-windsor</meta>
+		<dc:creator id="author">William Shakespeare</dc:creator>
+		<meta property="file-as" refines="#author">Shakespeare, William</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/William_Shakespeare</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n78095332.</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URL</meta>
+		<dc:contributor id="artist">Thomas Duncan</dc:contributor>
+		<meta property="file-as" refines="#artist">Duncan, Thomas</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Thomas_Duncan_(painter)</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr93033207</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">PG Shakespeare Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">PG Shakespeare Team</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">B. Timothy Keith</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Keith, B. Timothy</meta>
+		<meta property="se:url.homepage" refines="#producer-1">http://astart.ca</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 	</metadata>
 	<manifest>
@@ -83,7 +86,13 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/act-1.xhtml" id="act-1.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/act-2.xhtml" id="act-2.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/act-3.xhtml" id="act-3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/act-4.xhtml" id="act-4.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/act-5.xhtml" id="act-5.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/dramatis-personae.xhtml" id="dramatis-personae.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
@@ -91,6 +100,12 @@
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
+		<itemref idref="dramatis-personae.xhtml"/>
+		<itemref idref="act-1.xhtml"/>
+		<itemref idref="act-2.xhtml"/>
+		<itemref idref="act-3.xhtml"/>
+		<itemref idref="act-4.xhtml"/>
+		<itemref idref="act-5.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
 	</spine>
