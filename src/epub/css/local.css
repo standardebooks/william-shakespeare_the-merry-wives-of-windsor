@@ -94,6 +94,11 @@
 	display: none;
 }
 
+p span.i2{
+	text-indent: -1em;
+	padding-left: 3em;
+}
+
 p span.i6{
 	text-indent: -1em;
 	padding-left: 7em;
