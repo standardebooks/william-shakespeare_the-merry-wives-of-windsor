@@ -50,7 +50,7 @@
 			&lt;p&gt;&lt;i&gt;The Merry Wives of Windsor&lt;/i&gt; is believed to have been first performed in 1597 and was subsequently published in quarto in 1602, in a second quarto in 1619, and appeared in the 1923 &lt;i&gt;First Folio&lt;/i&gt;. Despite holding a lesser place in Shakespeare’s canon, it was one of the first Shakespearean plays to be performed once the theatres re-opened in 1660 after the reinstatement of Charles II and theatre once again was permitted to be performed in London.&lt;/p&gt; </meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1517</dc:source>
-		<meta property="se:production-notes">The main text was based on the PG version with additional stage directions taken from the 1923 Cambridge edition.</meta>
+		<meta property="se:production-notes">The main text was based on the PG version with additional stage directions taken from the 1923 Cambridge edition (marked by square brackets).</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Merry_Wives_of_Windsor</meta>
