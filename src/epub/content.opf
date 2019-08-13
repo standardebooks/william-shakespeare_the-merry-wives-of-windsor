@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-shakespeare/the-merry-wives-of-windsor</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2019-08-13T16:56:49Z</dc:date>
+		<meta property="dcterms:modified">2019-08-13T16:56:49Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -45,15 +45,15 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">Sir John Falstaff runs astray of the denizens of Windsor by trying to seduce several local wives at once.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;First published in 1602 by William Shakespeare, &lt;i&gt;The Merry Wives of Windsor&lt;/i&gt; features the popular figure of Sir John Falstaff who first appeared in &lt;i&gt;Henry IV, Part 1&lt;/i&gt; and &lt;i&gt;Part 2&lt;/i&gt;. One theory speculates it was written at the behest of Queen Elizabeth I who wanted to see Falstaff in love. It is theorized Shakespeare was forced to rush its creation as a result and so it remains one of Shakespeare’s lesser-regarded plays.&lt;/p&gt;
-			&lt;p&gt;The play revolves around two intertwined plots:the adventures of the rogue Falstaff who plans to seduce several local wives and the story of young Anne Page who is being wooed by prominent citizens while she has her sights set on young Fenton. The wives come together to teach Falstaff a lesson and in the end love triumphs.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;The Merry Wives of Windsor&lt;/i&gt; is believed to have been first performed in 1597 and was subsequently published in quarto in 1602, in a second quarto in 1619, and appeared in the 1623 &lt;i&gt;First Folio&lt;/i&gt;. Despite holding a lesser place in Shakespeare’s canon, it was one of the first Shakespearean plays to be performed once the theatres re-opened in 1660 after the reinstatement of Charles II and theatre once again was permitted to be performed in London.&lt;/p&gt; </meta>
+			&lt;p&gt;First published in 1602 by William Shakespeare, &lt;i&gt;The Merry Wives of Windsor&lt;/i&gt; features the popular figure Sir John Falstaff, who first appeared in &lt;i&gt;Henry IV, Part 1&lt;/i&gt; and &lt;i&gt;Part 2&lt;/i&gt;. Some speculate that &lt;i&gt;Merry Wives&lt;/i&gt; was written at the behest of Queen Elizabeth I, who wanted to see Falstaff in love; and that Shakespeare was forced to rush its creation as a result, and so it remains one of Shakespeare’s lesser-regarded plays.&lt;/p&gt;
+			&lt;p&gt;The play revolves around two intertwined plots: the adventures of the rogue Falstaff who plans to seduce several local wives, and the story of young Anne Page who is being wooed by prominent citizens while she has her sights set on young Fenton. The wives come together to teach Falstaff a lesson, and in the end love triumphs.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Merry Wives of Windsor&lt;/i&gt; is believed to have been first performed in 1597 and was subsequently published in quarto in 1602, in a second quarto in 1619, and then in the 1623 &lt;i&gt;First Folio&lt;/i&gt;. Despite holding a lesser place in Shakespeare’s canon, it was one of the first Shakespearean plays to be performed in 1660, after the reinstatement of Charles II and theatre once again was permitted to be performed in London.&lt;/p&gt; </meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1517</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.79122</dc:source>
 		<meta property="se:production-notes">The main text was based on the PG version with additional stage directions taken from the 1923 Cambridge edition (marked by square brackets).</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">25083</meta>
+		<meta property="se:reading-ease.flesch">84.47</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Merry_Wives_of_Windsor</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-shakespeare_the-merry-wives-of-windsor</meta>
 		<dc:creator id="author">William Shakespeare</dc:creator>
@@ -79,6 +79,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
