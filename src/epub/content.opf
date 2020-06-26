@@ -67,8 +67,8 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Thomas_Duncan_(painter)</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr93033207</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">PG Shakespeare Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">PG Shakespeare Team</meta>
+		<dc:contributor id="transcriber-1">P.G. Shakespeare Team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">P.G. Shakespeare Team</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">B. Timothy Keith</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Keith, B. Timothy</meta>
