@@ -42,7 +42,6 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Drama</meta>
-		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">Sir John Falstaff runs astray of the denizens of Windsor by trying to seduce several local wives at once.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;First published in 1602 by &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;William Shakespeare&lt;/a&gt;, &lt;i&gt;The Merry Wives of Windsor&lt;/i&gt; features the popular figure Sir John Falstaff, who first appeared in &lt;i&gt;Henry IV, Part 1&lt;/i&gt; and &lt;i&gt;Part 2&lt;/i&gt;. Some speculate that &lt;i&gt;Merry Wives&lt;/i&gt; was written at the behest of Queen Elizabeth I, who wanted to see Falstaff in love; and that Shakespeare was forced to rush its creation as a result, and so it remains one of Shakespeare’s lesser-regarded plays.&lt;/p&gt;
