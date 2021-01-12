@@ -53,7 +53,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/1517</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.79122</dc:source>
 		<meta property="se:production-notes">The main text was based on the PG version with additional stage directions taken from the 1923 Cambridge edition (marked by square brackets).</meta>
-		<meta property="se:word-count">25083</meta>
+		<meta property="se:word-count">25082</meta>
 		<meta property="se:reading-ease.flesch">84.47</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Merry_Wives_of_Windsor</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-shakespeare_the-merry-wives-of-windsor</meta>
