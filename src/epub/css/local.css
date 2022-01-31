@@ -39,8 +39,8 @@
 }
 
 [epub|type~="z3998:drama"] td{
-	vertical-align: top;
 	padding: .5em;
+	vertical-align: top;
 }
 
 [epub|type~="z3998:drama"] td:last-child{
@@ -122,7 +122,7 @@ p span.i6{
 }
 
 [epub|type~="z3998:signature"]{
-	margin-top: 1em;
 	font-variant: small-caps;
+	margin-top: 1em;
 	text-align: right;
 }
